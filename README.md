@@ -1,3 +1,6 @@
+# Django Polls Project
+
+
 ## Installation
 clone this repository
 </br>
